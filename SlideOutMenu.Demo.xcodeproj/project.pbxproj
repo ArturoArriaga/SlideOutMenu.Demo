@@ -50,8 +50,8 @@
 		59815BE523F2526700B4B561 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				59815BE323F2525F00B4B561 /* ThirdViewController.swift */,
 				591FAC6F23F4AAC400B9EC7F /* TabBarController.swift */,
+				59815BE323F2525F00B4B561 /* ThirdViewController.swift */,
 				59815BE123F251BD00B4B561 /* SecondController.swift */,
 				59815BDF23F2513A00B4B561 /* MenuController.swift */,
 				59815BDD23F250B400B4B561 /* HomeViewController.swift */,
